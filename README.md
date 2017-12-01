@@ -1,2 +1,3 @@
 # hello-world
-Roll A ball
+My name is Aziz 
+I go to Northeast High School & I am in the AVID program
